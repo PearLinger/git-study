@@ -1,1 +1,5 @@
 1.与github仓库进行连接
+git config --global user.email "377811501@qq.com" 配置邮箱
+git config --global user.name "yangyi" 配置用户名
+2.git remote add origin https://github.com/PearLinger/git-study.git
+3.git push -u origin main
